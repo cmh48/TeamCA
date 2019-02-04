@@ -1,3 +1,6 @@
+#Get rid of the idea folder
+.idea
+
 # Logs
 logs
 *.log
